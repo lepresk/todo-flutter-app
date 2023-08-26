@@ -2,7 +2,7 @@
 
 Une application simple de gestion de tâches ("Todo") développée en utilisant Flutter avec une touche de Material Design.
 
-![App Preview](app_preview.png)
+![App Preview](preview.png)
 
 ## Fonctionnalités clés
 
